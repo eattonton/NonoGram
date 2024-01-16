@@ -1,0 +1,16 @@
+{
+  "name": "Nonogram",
+  "version": "1.0.0",
+  "description": "NonoGram game can be printed for A4 paper.打印版数织游戏",
+  "main": "env.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
