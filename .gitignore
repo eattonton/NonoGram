@@ -12,6 +12,5 @@ tmp/
 test-result
 server.pid
 *.eml
-/dist/
 .cache
 node_modules
